@@ -1,0 +1,98 @@
+{
+    "id": "4bIB83SCQvoKZ5Lzxv8J8Q",
+    "alias": "kwality-grand-indian-buffet-mississauga",
+    "name": "Kwality Grand Indian Buffet",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oKB8RFiLJqAj3LSoBoh5ew/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kwality-grand-indian-buffet-mississauga?adjust_creative=tUo0R-q4dN-IqN1niDncqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=tUo0R-q4dN-IqN1niDncqg",
+    "phone": "+19056701880",
+    "display_phone": "+1 905-670-1880",
+    "review_count": 52,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "buffets",
+            "title": "Buffets"
+        }
+    ],
+    "rating": 3.0,
+    "location": {
+        "address1": "90 Courtneypark Drive E",
+        "address2": "",
+        "address3": null,
+        "city": "Mississauga",
+        "zip_code": "L5T 2Y3",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+            "90 Courtneypark Drive E",
+            "Mississauga, ON L5T 2Y3",
+            "Canada"
+        ],
+        "cross_streets": ""
+    },
+    "coordinates": {
+        "latitude": 43.6372916,
+        "longitude": -79.6919234
+    },
+    "photos": [
+        "https://s3-media2.fl.yelpcdn.com/bphoto/oKB8RFiLJqAj3LSoBoh5ew/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/BXnqOARfO6wrrTGpd7uqUw/o.jpg",
+        "https://s3-media4.fl.yelpcdn.com/bphoto/V46DywmYbprZbcyulT0ILA/o.jpg"
+    ],
+    "hours": [
+        {
+            "open": [
+                {
+                    "is_overnight": false,
+                    "start": "1100",
+                    "end": "2300",
+                    "day": 0
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1100",
+                    "end": "2300",
+                    "day": 1
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1100",
+                    "end": "2300",
+                    "day": 2
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1100",
+                    "end": "2300",
+                    "day": 3
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1100",
+                    "end": "2300",
+                    "day": 4
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1100",
+                    "end": "2300",
+                    "day": 5
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1100",
+                    "end": "2300",
+                    "day": 6
+                }
+            ],
+            "hours_type": "REGULAR",
+            "is_open_now": true
+        }
+    ],
+    "transactions": []
+}
